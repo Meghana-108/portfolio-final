@@ -29,7 +29,7 @@ function About() {
         style={{ fontFamily: "monospace" }}>
           Namaste, I’m Meghana!
         </p>
-        <p className="text-2xl text-ohogreen dark:text-teal-400 font-sans pl-8 mt-20" style={{ fontFamily: "Roboto, sans-serif" }}>
+        <p className="text-xl text-ohogreen dark:text-teal-400 font-sans pl-8 mt-20" style={{ fontFamily: "Roboto, sans-serif" }}>
           I'm passionate about creating solutions and constantly improving my skills to solve real-world problems. Feel free to explore my portfolio and reach out if you'd like to collaborate or have any questions!
         </p>
       </div>
