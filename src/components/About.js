@@ -25,7 +25,8 @@ function About() {
       onMouseMove={handleMouseMove}
     >
       <div className="container mx-auto text-left h-screen">
-        <p className="text-6xl text-ohogreen dark:text-teal-400 font-sans pl-8 pt-20 mt-20 animate-bounce font-mono">
+        <p className="text-6xl text-mono text-ohogreen dark:text-teal-400 font-sans pl-8 pt-20 mt-20 animate-bounce "
+        style={{ fontFamily: "monospace" }}>
           Namaste, I’m Meghana!
         </p>
         <p className="text-2xl text-ohogreen dark:text-teal-400 font-sans pl-8 mt-20" style={{ fontFamily: "Roboto, sans-serif" }}>
